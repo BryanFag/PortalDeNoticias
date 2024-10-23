@@ -1,0 +1,1 @@
+Este projeto é um Portal de Notícias de Tecnologia desenvolvido em HTML e CSS. O objetivo é criar uma plataforma atraente e funcional onde os usuários possam acessar as últimas novidades do mundo da tecnologia.
